@@ -35,6 +35,14 @@ This pack contains
 - Medium Pad (LC-20)
 - Small/Medium2 Pad (LC-2)
 - JAXA's H-II Vehicle Assembly Building
+- Kourou ELA-3
+- Kourou ELA-2
+- Kodiak LP-3 (Astra Rocket3.0's launch pad)
+- Medium HIF with interior
+- Kodiak LP-2
+- Big HIF with interior
+- LC-20 launch pad (the old one is still available but will not be updated)
+- lights system
 
 DEPENDENCIES: 
 -------
